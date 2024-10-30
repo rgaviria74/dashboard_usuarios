@@ -19,5 +19,6 @@
     Ejecutas el archivo `pip install -r requirements.txt` para instalar todos paquetes o   dependencias del proyecto.
     Ingresa desde un navegador a http://127.0.0.1:5000/
 
+### Usuario de prueba
 username dev@gmail.com
 password 4825
