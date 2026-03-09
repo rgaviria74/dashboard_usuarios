@@ -2,7 +2,7 @@
 
 ##### Sistema CRUD utilizando Python y MySQL (Panel de control).
 
-### Requerimientos 📋
+### Requerimientos
 
     Servidor Web (Apache)
     MySQL 5 o superior
@@ -22,3 +22,4 @@
 ### Usuario de prueba
 username dev@gmail.com
 password 4825
+
